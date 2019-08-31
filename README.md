@@ -1,6 +1,7 @@
 ﻿# 2019ROBOCON大赛主控PCB开源
 
-标签（空格分隔）： STM32F407VET6 ACTION 主控PCB Altium-Designer
+标签（空格分隔）： 
+STM32F407VET6 ACTION 主控PCB Altium-Designer
 
 ---
 >该文件仅用于萝卜坑坑友的相互交流，请勿用于商业用途。
