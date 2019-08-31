@@ -15,7 +15,7 @@
 
 （以下数字对应图上的标号）
 
-1：下载口（我们烧录程序使用的是3线Jlink，制作方法可以参考以下两个链接）（所用接）
+1：下载口（我们烧录程序使用的是3线Jlink，制作方法可以参考以下两个链接）
    http://forum.eepw.com.cn/thread/222232/1
    http://forum.eepw.com.cn/thread/211068/1
    
